@@ -1,0 +1,8 @@
+name = "micro-lesson-loading"
+account_id = [REDACTED]
+project_name = "micro-lesson-loading"
+compatibility_date = "2026-03-05"
+
+[[static_site]]
+bucket = "."
+entry-point = "."

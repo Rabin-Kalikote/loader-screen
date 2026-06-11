@@ -1,0 +1,11 @@
+{
+  "name": "micro-lesson-loading",
+  "version": "0.1.0",
+  "description": "A 20s educational loading screen prototype for Cloudflare Pages",
+  "scripts": {
+    "start": "serve -s . -l 5000"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
